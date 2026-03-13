@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback, useRef } from "react";
 
-// ─── 기본 데이터 ───────────────────────────────────────────────
+// ─── 기본 데이터 추가──────────────────────────────────────────────
 const DEFAULT_CATEGORIES = [
   { id: "exercise", name: "운동", emoji: "🏃", color: "#FF6B6B" },
   { id: "hobby",    name: "취미", emoji: "🎨", color: "#A78BFA" },
